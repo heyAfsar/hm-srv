@@ -4,11 +4,11 @@ Login - admin/admin
 
 Booking Registration -> image upload
 
-rooms available (types of rooms 1 room, 2 room)
-Tenants
-Tenant Name
-Tenant Id
-API will be GET, POST, PUT, DELETE /tenant
+* rooms available (types of rooms 1 room, 2 room)
+* Tenants
+* Tenant Name
+* Tenant Id
+* API will be GET, POST, PUT, DELETE /tenant
 
 Login
 * Users Table (Session Management)
